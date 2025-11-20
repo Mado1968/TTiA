@@ -37,7 +37,7 @@ export const About: React.FC = () => {
             <div className="relative">
                <div className="aspect-square rounded-full overflow-hidden border-8 border-ttia-dark/5 shadow-2xl relative z-10">
                   <img 
-                    src="https://picsum.photos/800/800?grayscale" 
+                    src="/assets/fonttia.jpg" 
                     alt="Office meeting" 
                     className="w-full h-full object-cover"
                   />
