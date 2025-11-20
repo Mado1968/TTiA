@@ -31,9 +31,7 @@ export const Navbar: React.FC = () => {
       <div className="container mx-auto px-6 flex justify-between items-center">
         {<img src="/assets/TTiA_2025-smal.jpg" alt="Logo Overlay"/>/* Logo */}
         <a href="#" className="flex items-center gap-2 group">
-          <div className="relative w-10 h-10 flex items-center justify-center bg-ttia-orange rounded-full text-ttia-dark group-hover:scale-105 transition-transform">
-             <BrainCircuit size={24} />
-          </div>
+        
           <span className="text-2xl font-bold font-display tracking-wider text-ttia-cream">
             TTiA
           </span>
