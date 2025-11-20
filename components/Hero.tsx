@@ -13,10 +13,7 @@ export const Hero: React.FC = () => {
         
         {/* Text Content */}
         <div className="space-y-8">
-          <div className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-ttia-darker border border-ttia-cream/10 text-xs font-bold tracking-widest text-ttia-orange">
-            <Zap size={14} className="fill-current" />
-            DIGITAL ACCELERATION
-          </div>
+          
           
           <h1 className="text-5xl md:text-7xl font-display font-bold leading-tight">
             Transforming <br/>
